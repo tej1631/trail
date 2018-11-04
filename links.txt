@@ -1,0 +1,1 @@
+https://kubernetes.io/docs/concepts/overview/components/#kube-proxyhttps://kubernetes.io/docs/concepts/https://kubernetes.io/docs/user-journeys/users/application-developer/foundational/#section-4https://kubernetes.io/docs/reference/kubectl/cheatsheet/#kubectl-context-and-configurationhttps://linuxhint.com/minikube_tutorial_made_easy/
